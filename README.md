@@ -1,2 +1,3 @@
-# EVENTHUNTER
-Istinye University Students Projects
+# flutter_app
+
+A new Flutter project.
